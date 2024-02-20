@@ -1,18 +1,18 @@
 ---
-title: Editorial Example
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/editorial.jpg
-alt: Shirts on a hanger
+title: Wronger
+subtitle: Lorem ipsum dolor sit amet consectetur.
+image: assets/img/portfolio/wronger.jpg
+alt: 
 
 caption:
-  title: Editorial Work
-  subtitle: Editorial
-  thumbnail: assets/img/portfolio/editorial-thumbnail.jpg
+  title: Wronger
+  subtitle: Film
+  thumbnail: assets/img/portfolio/wronger-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported.
+Wronger the band. Looks designed by Christina Couch ( Key MUA for the film) assistance from her lovely team Jessica Seifert, Bree Ann Marie, and Shayla Couch.
 
 {:.list-inline}
 
 - Date: February 2024
 - Client: Example Work
-- Category: Editorial
+- Category: Film

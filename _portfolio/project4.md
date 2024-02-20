@@ -1,18 +1,18 @@
 ---
-title: Go Ask Alice
+title: High Fashion Example
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/go_ask_alice.jpg
-alt: 
+image: assets/img/portfolio/high-fashion.jpg
+alt: Keep Exploring
 
 caption:
-  title: Go Ask Alice
-  subtitle: Film
-  thumbnail: assets/img/portfolio/go_ask_alice-thumbnail.jpg
+  title: High Fashion Work
+  subtitle: High Fashion
+  thumbnail: assets/img/portfolio/high_fashion-thumbnail.jpg
 ---
-Makeup application done by Christina Couch, hair done by Shayla Couch.
+Use this area to describe your project.
 
 {:.list-inline}
 
 - Date: February 2024
 - Client: Example Work
-- Category: Film
+- Category: High Fashion
