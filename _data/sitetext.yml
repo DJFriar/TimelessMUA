@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to The Timeless MUA!
     text: It's Nice To Meet You
-    button: Tell Me More
+    button: Learn More
     buttonlink: "#portfolio"
 
   # services:
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "A small sampling of my work."
     section: portfolio
     closebutton: "Close Project"
 
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "please fill out the below to contact me."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
