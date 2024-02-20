@@ -1,18 +1,18 @@
 ---
-title: Project Name
+title: High Fashion Example
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
+image: assets/img/portfolio/high-fashion.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: High Fashion Work
+  subtitle: High Fashion
+  thumbnail: assets/img/portfolio/high_fashion-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Use this area to describe your project.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
 
+- Date: February 2024
+- Client: Example Work
+- Category: High Fashion

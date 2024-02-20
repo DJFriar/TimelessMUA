@@ -1,18 +1,18 @@
 ---
-title: Project Name
+title: Go Ask Alice
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
+image: assets/img/portfolio/go_ask_alice.jpg
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: Go Ask Alice
+  subtitle: Film
+  thumbnail: assets/img/portfolio/go_ask_alice-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Makeup application done by Christina Couch, hair done by Shayla Couch.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
 
+- Date: February 2024
+- Client: Example Work
+- Category: Film

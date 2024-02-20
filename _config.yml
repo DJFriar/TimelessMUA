@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "http://timelessmua.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 
-title      : Timeless MUA
+title      : The Timeless MUA
 email      : thetimelessmua@gmail.com #this is also the email contact forms will go to
 description: "Dallas / Fort Worth Makeup Artist specializing in historically accurate, avant-garde, and timeless looks."
 author     : Christina Couch
